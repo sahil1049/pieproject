@@ -989,7 +989,10 @@ link:focus,
 }
 
 .bg-footer {
-  background-color: #182b45;
+  background-color:#efe7e9
+}
+.faqtext{
+  text-align:justify;
 }
 
 .logo-footer {
